@@ -1,0 +1,38 @@
+.cover__titile {
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    max-width: 560px;
+    width: 100%;
+    text-align: center;
+    margin: 0px;
+    margin-top: 245px;
+}
+
+@media(max-width: 1024px){
+    .cover__titile  {
+        margin-top: 195px;
+    }
+}
+
+@media(max-width: 768px){
+    .cover__titile {
+        margin-top: 115px;
+    }
+}
+
+@media(max-width: 506px){
+    .cover__titile {
+        font-size: 40px;
+        line-height: 45px;
+    }
+}
+
+@media(max-width: 320px){
+    .cover__titile {
+        font-size: 32px;
+        line-height: 35px;
+        margin-top: 33px;
+    }
+}

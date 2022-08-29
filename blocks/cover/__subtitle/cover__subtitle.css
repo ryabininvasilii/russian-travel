@@ -1,0 +1,33 @@
+.cover__subtitile {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    max-width: 360px;
+    width: 100%;
+    text-align: center;
+    margin-top: 32px;
+    
+}
+
+@media(max-width: 1024px){
+    .cove__subtitile  {
+        margin-bottom: 195px;
+    }
+}
+
+@media(max-width: 768px){
+    .cover__subtitile {
+        margin-bottom: 115px;
+    }
+}
+
+@media(max-width: 320px){
+    .cover__subtitile {
+        font-size: 14px;
+        line-height: 16px;
+        margin-top: 16px;
+        margin-bottom: 33px;
+        max-width: 288px;
+    }
+}
