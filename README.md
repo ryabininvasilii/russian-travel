@@ -13,4 +13,4 @@
 - Методология БЭМ
 - Github
 
-Github Pages: https://github.com/ryabininvasilii/russian-travel/tree/main/russian-travel
+Github Pages: https://ryabininvasilii.github.io/russian-travel/
