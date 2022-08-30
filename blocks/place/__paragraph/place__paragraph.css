@@ -17,7 +17,7 @@
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 940px) {
     .place__paragraph {
         font-size: 16px;
         line-height: 26px;
@@ -26,12 +26,28 @@
     }
 }
 
-@media (max-width: 755px) {
+@media (max-width: 768px) {
     .place__paragraph {
-        max-width: 288px;
-        margin: 25px 16px 0px;
+        max-width: 352px;
     }
 }
+
+@media (max-width: 755px) {
+    .place__paragraph {
+        margin-left: 16px;
+        max-width: 288px;
+    }
+}
+
+
+@media (max-width: 320px) {
+    .place__paragraph {
+        max-width: 288px;
+        
+
+    }
+}
+
 
 .place__paragraph:first-child {
     margin-top: 0px;

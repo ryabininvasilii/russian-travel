@@ -6,8 +6,9 @@
     color: #FFFFFF;
     margin: 0px;
     margin-top: 12px;
-    max-width: 40%;
+    max-width: 65%;
 }
+
 
 .place__link:hover {
     cursor: pointer;

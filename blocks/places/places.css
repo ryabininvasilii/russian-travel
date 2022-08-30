@@ -8,7 +8,7 @@
 }
 }
 @media(max-width:320px) {
-    .places {
-        margin-top: 64px;
-    }
-    }
+.places {
+     margin-top: 64px;
+}
+}
