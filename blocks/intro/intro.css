@@ -14,13 +14,11 @@
 @media (max-width: 768px) {
     .intro{
         max-width: 720px;
-        margin: 88px 24px 0px;
     }
 }
-@media (max-width: 760px) {
+@media (max-width: 769px) {
     .intro{
         max-width: 288px;
-        margin: 88px 10px 0px;
     }
 }
 @media (max-width: 320px) {

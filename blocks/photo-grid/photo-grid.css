@@ -41,7 +41,14 @@
         margin: 64px 16px 0px;
     }
 }
-
+@media (max-width: 640px) {
+    .photo-grid {
+        width: 550px;
+        column-gap: 14px;
+        row-gap: 14px;
+        margin: 64px 0px 0px;
+    }
+}
 @media (max-width: 606px) {
     .photo-grid {
         width: 500px;

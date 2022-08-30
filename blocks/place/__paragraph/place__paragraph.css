@@ -13,7 +13,7 @@
     .place__paragraph {
         max-width: 456px;
         width: 100%;
-        padding-right: 50px;
+
     }
 }
 
@@ -22,11 +22,11 @@
         font-size: 16px;
         line-height: 26px;
         max-width: 352px;
-        padding-right: 0px;
+
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 755px) {
     .place__paragraph {
         max-width: 288px;
         margin: 25px 16px 0px;

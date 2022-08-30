@@ -15,14 +15,9 @@
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 765px) {
     .intro__text{
-        max-width: 720px;
-    }
-}
-@media (max-width: 760px) {
-    .intro__text{
-        max-width: 288px;
+        max-width: 600px;
     }
 }
 @media (max-width: 320px) {
