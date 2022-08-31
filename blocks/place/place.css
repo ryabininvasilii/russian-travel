@@ -15,20 +15,17 @@
         grid-template-columns: 440px auto;
         grid-template-rows: auto 440px;
         column-gap: 32px;
-        row-gap: 48px;
     }
 }
 
-@media (max-width: 822px) {
+@media (max-width: 1023px) {
     .place {
         max-width:720px;
         grid-template-columns: 340px auto;
         grid-template-rows: auto auto;
         column-gap: 28px;
-        row-gap: 48px;
         margin-top: 73px;
     }
-    
 }
 
 @media (max-width: 755px) {
@@ -40,14 +37,7 @@
         
     }
 }
-@media(max-width: 320px) {
-    .place {
-        display: flex;
-        flex-direction: column;
-        margin-top: 50px;
-        row-gap: 32px;
-    }
-}
+
 
 .place:first-child {
     margin-top: 0px;

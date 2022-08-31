@@ -10,6 +10,7 @@
     text-decoration: none;
     z-index: 0;
     position: relative;
+    justify-content: center;
 }
 
 .cover__link::before {

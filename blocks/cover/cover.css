@@ -3,19 +3,6 @@
     max-width: 1184px;
     width: 100%;
 }
-
-@media(max-width:1024px){
-    .cover {
-         width: 100%;
-         max-height: 640px;
-     }
- }
- 
- @media(max-width:768px){
-     .cover {
- 
-      }
-  }
  
   @media(max-width:320px){
      .cover {

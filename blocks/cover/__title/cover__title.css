@@ -7,19 +7,7 @@
     width: 100%;
     text-align: center;
     margin: 0px;
-    margin-top: 245px;
-}
 
-@media(max-width: 1024px){
-    .cover__titile  {
-        margin-top: 195px;
-    }
-}
-
-@media(max-width: 768px){
-    .cover__titile {
-        margin-top: 115px;
-    }
 }
 
 @media(max-width: 550px){
@@ -33,6 +21,5 @@
     .cover__titile {
         font-size: 32px;
         line-height: 35px;
-        margin-top: 33px;
     }
 }
