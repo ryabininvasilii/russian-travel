@@ -56,6 +56,7 @@
     .photo-grid {
         width: 288px;
         row-gap: 12px;
-        margin: 64px 16px 0px;
+        margin-left:16px;
+        margin-right:16px;
     }
 }
